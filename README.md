@@ -1,53 +1,71 @@
-# Hi, I'm Karthik 👋
+# Hey, I'm Karthik 👋
 
-### Aspiring AI & Machine Learning Engineer
+### Aspiring AI & Machine Learning Engineer 🧠
 
-I'm a student developer in Class 8, currently learning Python and building my programming skills one project at a time.
+I'm a student developer in Class 8, learning Python and building projects to strengthen my programming fundamentals.
 
-My long-term goal is to become an AI & Machine Learning Engineer. Right now, I'm focused on mastering the fundamentals, improving my problem-solving skills, and turning what I learn into working projects.
+My long-term goal is to become an **AI & Machine Learning Engineer**. I'm focused on learning the basics properly, solving problems, and turning ideas into working projects.
 
-- 🐍 Learning Python
-- 🎯 Working toward AI & Machine Learning
+- 🐍 Currently learning **Python**
+- 🎯 Focused on programming fundamentals and problem-solving
 - 🛠️ Building beginner-friendly projects
-- 📈 Improving my coding and problem-solving skills
-- 🌱 Currently learning the fundamentals of software development
+- 🌱 Exploring the world of software development and AI
+- 📌 Goal: Build useful projects and keep improving every day
 
-### 🧰 Tech Stack
+---
+
+## 🧰 Tech Stack
 
 **Languages**
 
-- Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Currently Exploring**
+**Tools I'm exploring**
 
-- Programming fundamentals
-- Problem-solving
-- Git & GitHub
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 Featured Project
+---
 
-**Rock Paper Scissors**
+## 🚀 Featured Project
 
-My first major beginner Python project — a simple game built to practice programming fundamentals and turn code into something interactive.
+### 🎮 [Rock, Paper, Scissors](https://github.com/karthiksh2013/rock-paper-scissors)
 
-I'm using projects like this to strengthen my foundations before moving into more advanced software development and machine learning.
+My first major Python project: a command-line version of the classic game.
 
-### 🎯 My Learning Roadmap
+**What it includes:**
+- Random opponent choices
+- Score tracking
+- Multiple rounds
+- Final results and player rating
 
-- [x] Start learning Python
-- [x] Build my first game
-- [ ] Strengthen Python fundamentals
-- [ ] Learn Git and GitHub workflows
+**Concepts practiced:** Variables, dictionaries, loops, conditional statements, user input, and Python's `random` module.
+
+---
+
+## 🎯 My Learning Roadmap
+
+- [x] Learn Python fundamentals
+- [x] Build my first Python game
+- [x] Publish a project on GitHub
+- [ ] Improve code quality and problem-solving
+- [ ] Learn Git and version control in greater depth
 - [ ] Explore NumPy and Pandas
 - [ ] Learn machine learning fundamentals
 - [ ] Build my first machine learning project
 
-### 💡 My Philosophy
+---
 
-> Learn the fundamentals. Build real projects. Improve consistently.
+## 💡 My Philosophy
 
-I'm at the beginning of my journey, and I'm here to learn, experiment, and grow as a developer.
+> Learn consistently. Build things. Understand the fundamentals. Improve through practice.
+
+I'm at the beginning of my developer journey, and I'm using GitHub to document my progress and share what I build.
+
+### 🤝 Connect With Me
+
+- GitHub: [@karthiksh2013](https://github.com/karthiksh2013)
 
 ---
 
-*Building my skills one commit at a time.*
+*One step at a time. One project at a time.*

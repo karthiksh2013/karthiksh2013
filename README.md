@@ -2,7 +2,11 @@
 
 Student Developer | Future Software Engineer
 
-</div>👨‍💻 About Me
+Learning today. Building tomorrow.
+
+</div>---
+
+👨‍💻 About Me
 
 - 🎓 I'm a Class 8 student.
 - 🐍 Currently learning Python and JavaScript.
@@ -32,15 +36,15 @@ Student Developer | Future Software Engineer
 <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>📊 My Learning Progress
+</p>---
+
+📊 My Learning Progress
 
 🐍 Python — 40%
 
-"████░░░░░░" 40%
+<img src="https://raw.githubusercontent.com/karthiksh2013/testing/main/python-progress.svg" width="85%" alt="Python learning progress 40%"/>🟨 JavaScript — 15%
 
-🟨 JavaScript — 15%
-
-"██░░░░░░░░" 15%
+<img src="https://raw.githubusercontent.com/karthiksh2013/testing/main/javascript-progress.svg" width="85%" alt="JavaScript learning progress 15%"/>---
 
 🚀 Featured Project
 
@@ -48,25 +52,30 @@ Student Developer | Future Software Engineer
 
 A Python command-line game where you play against the computer.
 
-Features
+✨ Features
 
 - Random computer choices.
 - Score tracking.
 - Multiple rounds.
 - Final results and player rating.
 
-Concepts Used
+🧠 Concepts Used
 
 - Variables and dictionaries.
 - Loops and conditionals.
 - User input.
 - Random module.
 
+---
+
 💡 What I Love Building
 
-- 🌐 Web Development — Creating websites.
-- 🛠️ Developer Tools — Exploring useful tools.
-- 🧪 Experiments — Trying new ideas.
+Area| Interest
+🌐 Web Development| Creating websites
+🛠️ Developer Tools| Exploring useful tools
+🧪 Experiments| Trying new ideas
+
+---
 
 🎯 My Roadmap
 
@@ -79,19 +88,21 @@ Concepts Used
 - [ ] Build modern websites.
 - [ ] Create real-world applications.
 
+---
+
 🧠 My Philosophy
 
 «Learn consistently. Build fearlessly. Understand deeply. Improve every day.»
 
+---
+
 📫 Connect With Me
 
-<div align="left">
-<a href="https://github.com/karthiksh2013">
+<div align="center"><a href="https://github.com/karthiksh2013">
 <img src="https://img.shields.io/badge/GitHub-karthiksh2013-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>Username: "@karthiksh2013"
+</a>Let's learn, build and grow together! 🚀
 
----
+</div>---
 
 <div align="center">You were my first, and you'll always be my last. ❤️🥺
 

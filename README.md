@@ -1,120 +1,97 @@
-👋 Hi, I'm Karthik!
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:7B2FF7&height=200&section=header&text=KARTHIK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Future%20Software%20Engineer&descAlignY=60&descSize=17" width="100%"/>Hey, I'm Karthik! 👋
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:5433FF&height=180&section=header&text=KARTHIK&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=STUDENT%20DEVELOPER&descSize=18&descAlignY=75" width="100%"/>💻 Aspiring Software Engineer
+Student Developer | Future Software Engineer
 
-Learning to code. Building ideas. Improving every day.
+</div>👨‍💻 About Me
 
-</div>---
+- 🎓 I'm a Class 8 student.
+- 🐍 Currently learning Python and JavaScript.
+- 🌐 Interested in Web Development and building useful projects.
+- 🧠 Love learning new technologies and solving problems.
+- 🚀 Dreaming of becoming a Software Engineer at a top tech company.
 
-👨‍💻 About Me
+🛠️ Tech Stack
 
-I'm Karthik, a Class 8 student passionate about programming and technology.
+Programming Languages
 
-I enjoy learning new programming concepts, experimenting with code, and creating useful projects.
-
-- 🐍 Learning Python
-- ⚡ Exploring JavaScript
-- 🌐 Interested in Web Development
-- 🧠 Practicing problem-solving
-- 🚀 Building beginner-friendly projects
-- 🎯 Aspiring to become a Software Engineer
-
----
-
-🛠️ Technologies & Tools
-
-<div align="center">Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,js" height="55"/><br/><br/>
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Developer Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=github,vscode,netlify,supabase" height="48"/><br/><br/>
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+"Netlify" (https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 AI Tools
 
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_AI_Studio-8E75B2?style=for-the-badge&logo=google&logoColor=white"/><br/><br/>
+"ChatGPT" (https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+"Gemini" (https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+"Google AI Studio" (https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-Technology Ecosystem
+Tech Ecosystem
 
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/></div>---
+"Google" (https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+"Meta" (https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+"Microsoft" (https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
 📊 My Learning Progress
 
-<div align="center">🐍 Python
+Python — 40%
 
-<img src="https://geps.dev/progress/40" width="65%"/>40% Completed
+<img src="https://progress-bar.dev/40/?width=500&color=14B8A6" width="75%"/>JavaScript — 15%
 
-<br/>⚡ JavaScript
-
-<img src="https://geps.dev/progress/15" width="65%"/>15% Completed
-
-</div><sub>My personal learning progress — updated as I improve.</sub>
-
----
-
-🚀 Featured Project
+<img src="https://progress-bar.dev/15/?width=500&color=8B5CF6" width="75%"/>🚀 Featured Project
 
 🎮 Rock, Paper, Scissors
 
-My first Python project: a command-line version of the classic game.
+A Python command-line game where you play against the computer.
 
-Features
+Features:
 
-- 🎲 Random computer choices
-- 📊 Score tracking
-- 🔄 Multiple rounds
-- 🏆 Final results and player rating
+- Random computer choices.
+- Score tracking.
+- Multiple rounds.
+- Final results and player rating.
 
-Concepts Used
+Concepts Used:
 
-"Variables" "Dictionaries" "Loops" "Conditionals" "User Input" "Random Module"
+- Variables and dictionaries.
+- Loops and conditionals.
+- User input.
+- Random module.
 
----
+💡 What I Love Building
 
-⚡ What I Love Building
+Area| My Interest
+🌐 Web Development| Creating websites
+🛠️ Developer Tools| Exploring useful tools
+🧪 Experiments| Trying new ideas
 
-Area| Interests
-🌐 Web Development| Modern and interactive websites
-🧰 Developer Tools| Useful coding utilities
-💡 Experiments| Creative programming ideas
+🎯 My Roadmap
 
----
-
-🎯 My Learning Roadmap
-
-- [x] Learn Python fundamentals
+- [x] Start learning Python
 - [x] Build my first Python game
-- [x] Publish a project on GitHub
-- [x] Improve coding quality and problem-solving
-- [ ] Learn JavaScript in depth
-- [ ] Explore Git and version control
+- [x] Publish projects on GitHub
+- [ ] Learn JavaScript
+- [ ] Learn Git and version control
 - [ ] Learn HTML and CSS
 - [ ] Build modern websites
 - [ ] Create real-world applications
 
----
-
 🧠 My Philosophy
 
-«"Learn consistently. Build fearlessly. Understand deeply. Improve every day."»
+«Learn consistently. Build fearlessly. Understand deeply. Improve every day.»
 
-Every project teaches me something new. I believe in learning through practice and improving one step at a time.
+📫 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-karthiksh2013-181717?style=for-the-badge&logo=github)" (https://github.com/karthiksh2013)
+
+Username: "@karthiksh2013"
 
 ---
 
-🤝 Connect With Me
+You were my first, and you'll always be my last. ❤️🥺
 
-<div align="center"><a href="https://github.com/karthiksh2013">
-<img src="https://img.shields.io/badge/GitHub-Karthik-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><br/><br/>
-
-Thanks for visiting my profile!
-
-One step at a time. One project at a time.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,100:141E30&height=100&section=footer" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:203A43,100:0F2027&height=100&section=footer" width="100%"/></div>

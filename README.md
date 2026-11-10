@@ -15,30 +15,34 @@ Student Developer | Future Software Engineer
 💻 Programming Languages
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,js" height="55"/>
+<img src="https://skillicons.dev/icons?i=python,js" height="55" alt="Python and JavaScript"/>
 </div>⚙️ Developer Tools & Platforms
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=github,vscode,netlify,supabase" height="55"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,netlify,supabase" height="55" alt="GitHub, VS Code, Netlify and Supabase"/>
 </div>🤖 AI Tools
 
 <p>
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>🌍 Tech Ecosystem
 
 <p>
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>📊 My Learning Progress
 
 🐍 Python — 40%
 
-<img src="https://progress-bar.dev/40/?width=500&color=14B8A6" alt="Python progress: 40%" width="80%"/>🟨 JavaScript — 15%
+"████░░░░░░" 40%
 
-<img src="https://progress-bar.dev/15/?width=500&color=8B5CF6" alt="JavaScript progress: 15%" width="80%"/>🚀 Featured Project
+🟨 JavaScript — 15%
+
+"██░░░░░░░░" 15%
+
+🚀 Featured Project
 
 🎮 Rock, Paper, Scissors
 

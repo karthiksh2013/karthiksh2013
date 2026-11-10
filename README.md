@@ -1,14 +1,8 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:7B2FF7&height=200&section=header&text=KARTHIK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Future%20Software%20Engineer&descAlignY=60&descSize=17" width="100%"/>Hey, I'm Karthik! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:7B2FF7&height=200&section=header&text=KARTHIK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Future%20Software%20Engineer&descAlignY=60&descSize=17" width="100%"/>
+Student Developer | Future Software Engineer
 
-# Hey, I'm Karthik! 👋
-
-### Student Developer | Future Software Engineer
-
-</div>
-
-## 👨‍💻 About Me
+</div>👨‍💻 About Me
 
 - 🎓 I'm a Class 8 student.
 - 🐍 Currently learning Python and JavaScript.
@@ -16,63 +10,61 @@
 - 🧠 Love learning new technologies and solving problems.
 - 🚀 Dreaming of becoming a Software Engineer at a top tech company.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 💻 Programming Languages
+💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,js" height="55"/>
+</div>⚙️ Developer Tools & Platforms
 
-### ⚙️ Developer Tools & Platforms
+<div align="left">
+<img src="https://skillicons.dev/icons?i=github,vscode,netlify,supabase" height="55"/>
+</div>🤖 AI Tools
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" height="32"/>
+</p>🌍 Tech Ecosystem
 
-### 🤖 AI Tools
+<p>
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+</p>📊 My Learning Progress
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+🐍 Python — 40%
 
-### 🌍 Tech Ecosystem
+<img src="https://progress-bar.dev/40/?width=500&color=14B8A6" alt="Python progress: 40%" width="80%"/>🟨 JavaScript — 15%
 
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+<img src="https://progress-bar.dev/15/?width=500&color=8B5CF6" alt="JavaScript progress: 15%" width="80%"/>🚀 Featured Project
 
-## 📊 My Learning Progress
-
-![Python 40%](https://img.shields.io/badge/Python-40%25-14B8A6?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript 15%](https://img.shields.io/badge/JavaScript-15%25-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
-
-## 🚀 Featured Project
-
-### 🎮 Rock, Paper, Scissors
+🎮 Rock, Paper, Scissors
 
 A Python command-line game where you play against the computer.
 
-**Features**
+Features
+
 - Random computer choices.
 - Score tracking.
 - Multiple rounds.
 - Final results and player rating.
 
-**Concepts Used**
+Concepts Used
+
 - Variables and dictionaries.
 - Loops and conditionals.
 - User input.
 - Random module.
 
-## 💡 What I Love Building
+💡 What I Love Building
 
-- 🌐 **Web Development** — Creating websites.
-- 🛠️ **Developer Tools** — Exploring useful tools.
-- 🧪 **Experiments** — Trying new ideas.
+- 🌐 Web Development — Creating websites.
+- 🛠️ Developer Tools — Exploring useful tools.
+- 🧪 Experiments — Trying new ideas.
 
-## 🎯 My Roadmap
+🎯 My Roadmap
 
 - [x] Start learning Python.
 - [x] Build my first Python game.
@@ -83,22 +75,20 @@ A Python command-line game where you play against the computer.
 - [ ] Build modern websites.
 - [ ] Create real-world applications.
 
-## 🧠 My Philosophy
+🧠 My Philosophy
 
-> Learn consistently. Build fearlessly. Understand deeply. Improve every day.
+«Learn consistently. Build fearlessly. Understand deeply. Improve every day.»
 
-## 📫 Connect With Me
+📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-karthiksh2013-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiksh2013)
-
-**Username:** `@karthiksh2013`
+<div align="left">
+<a href="https://github.com/karthiksh2013">
+<img src="https://img.shields.io/badge/GitHub-karthiksh2013-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>Username: "@karthiksh2013"
 
 ---
 
-<div align="center">
+<div align="center">You were my first, and you'll always be my last. ❤️🥺
 
-**You were my first, and you'll always be my last. ❤️🥺**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:203A43,100:0F2027&height=100&section=footer" width="100%"/></div>
